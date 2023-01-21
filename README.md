@@ -1,3 +1,3 @@
 # HelloWorld
 Pre work android codepath
-<img src='' title='walkthrough.gif' width='' alt = 'Video walkthrough' />
+<img src='walkthrough.gif' title='Video walkthrough' width='' alt = 'Video walkthrough' />
